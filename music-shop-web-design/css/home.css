@@ -255,6 +255,10 @@ grid-row: span 2;
         width:100%;
     }
     
+    .content-container{
+        align-items:stretch;
+    }
+    
     .desktop-open{
         display: none;
     }
