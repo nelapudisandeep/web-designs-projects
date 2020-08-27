@@ -1,0 +1,13 @@
+:root{
+    /* fonts */
+    --font-heading: 'Montserrat', sans-serif;
+    --font-text:  'Open Sans', sans-serif;
+    /* color palette */
+    --color-space-cadet: #2b2d42ff;
+    --color-manatee: #8d99ae33;
+    --color-orange-web: #fca311ff;
+    --color-white: #ffffffff;
+    --color-dark: #000000cc;    
+    --color-dark-light: #00000099;    
+}
+
