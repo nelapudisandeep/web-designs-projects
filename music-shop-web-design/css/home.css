@@ -251,6 +251,10 @@ grid-row: span 2;
 /* media queries */
 
 @media screen and (max-width:850px){
+    main{
+        width:100%;
+    }
+    
     .desktop-open{
         display: none;
     }
